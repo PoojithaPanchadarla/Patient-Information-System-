@@ -18,8 +18,8 @@ The Patient Information System is a simple application built using Python and th
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Patient-Information-System.git
+   git clone https://github.com/PoojithaPanchadarla/Patient-Information-System-.git
    cd Patient-Information-System
